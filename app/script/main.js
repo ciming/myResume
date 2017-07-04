@@ -1,3 +1,3 @@
 $(window).on('load', function () {
-  console.log(111)
+  $('#preloader').fadeOut()
 })
