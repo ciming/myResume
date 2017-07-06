@@ -7,5 +7,6 @@ $(function () {
   $("#mainmenu-area").sticky({
     topSpacing: 0
   });
-
+  //percircle
+  $(".c100").percircle();
 })

@@ -14,6 +14,7 @@
 
 .mainmenu-area{
   background-color: rgba(0,0,0,.3);
+  transition: all .6s ;
 }
 .navbar-header{
   margin-top: 10px;
@@ -45,7 +46,7 @@ ul#nav {
       font-size: 14px;
       font-weight: 700;
       letter-spacing: 1px;
-      padding: 30px 30px;
+      padding: 30px 10px;
       text-transform: uppercase;
       -webkit-transition: all 0.3s ease 0s;
       transition: all 0.3s ease 0s;
@@ -58,12 +59,17 @@ ul#nav {
   color: #ffcc33;
   font-size: 24px;
 }
-
+.is-sticky{
+  .mainmenu-area{
+    background-color: rgba(0,0,0,.7);
+  }
+}
 @media (min-width: 768px) {
 }
 @media only screen and (max-width: 767px) {
   .navbar-collapse {
     padding: 0;
+    box-shadow: 0 5px 10px rgba(0,0,0,.3);
   }
   .navbar-header{
     margin: 0;
@@ -86,7 +92,9 @@ ul#nav {
       float: none;
       a {
         background: #333 none repeat scroll 0 0;
-        padding: 5px 10px;
+        padding: 10px 15px;
+        font-size: 16px;
+        letter-spacing: 10px;
       }
     }
   }
