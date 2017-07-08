@@ -42,7 +42,7 @@ ul#nav {
     a{
       display: block;
       background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-      color: #ffffff;
+      color: #ffcc33;
       font-size: 14px;
       font-weight: 700;
       letter-spacing: 1px;
@@ -51,6 +51,11 @@ ul#nav {
       -webkit-transition: all 0.3s ease 0s;
       transition: all 0.3s ease 0s;
       position: relative;
+    }
+    &.active{
+      a{
+        color: #fff;
+      }
     }
   }
 }
@@ -61,7 +66,13 @@ ul#nav {
 }
 .is-sticky{
   .mainmenu-area{
-    background-color: rgba(0,0,0,.7);
+    background-color: rgba(0,0,0,.9);
+  }
+  .navbar-header{
+    margin-top:0
+  }
+  ul#nav > li a{
+    padding: 20px 10px;
   }
 }
 @media (min-width: 768px) {
