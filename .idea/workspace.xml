@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="091bf4f4-0aaa-4085-9fbb-25e6d6eebfdc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,24 +24,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-190">
-              <caret line="193" column="111" lean-forward="false" selection-start-line="193" selection-start-column="111" selection-end-line="193" selection-end-column="111" />
+            <state relative-caret-position="221">
+              <caret line="60" column="47" lean-forward="false" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
               <folding>
-                <element signature="e#2954#2960#0" expanded="true" />
-                <element signature="e#3068#3074#0" expanded="true" />
+                <element signature="e#2973#2979#0" expanded="true" />
+                <element signature="e#3087#3093#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -123,8 +123,8 @@
         <option value="$PROJECT_DIR$/app/styles/index.less" />
         <option value="$PROJECT_DIR$/app/styles/footer.less" />
         <option value="$PROJECT_DIR$/app/styles/work.less" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
@@ -316,12 +316,12 @@
       <workItem from="1499690132039" duration="1745000" />
       <workItem from="1501297042032" duration="2954000" />
       <workItem from="1501397678629" duration="1231000" />
-      <workItem from="1501401289844" duration="4675000" />
+      <workItem from="1501401289844" duration="5371000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64610000" />
+    <option name="totallyTimeSpent" value="65306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="23" width="1230" height="777" extended-state="6" />
@@ -375,8 +375,8 @@
         <state relative-caret-position="646">
           <caret line="38" column="61" lean-forward="false" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
           <folding>
-            <element signature="e#2954#2960#0" expanded="true" />
-            <element signature="e#3068#3074#0" expanded="true" />
+            <element signature="e#2973#2979#0" expanded="true" />
+            <element signature="e#3087#3093#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -442,8 +442,8 @@
         <state relative-caret-position="357">
           <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
           <folding>
-            <element signature="e#2954#2960#0" expanded="true" />
-            <element signature="e#3068#3074#0" expanded="true" />
+            <element signature="e#2973#2979#0" expanded="true" />
+            <element signature="e#3087#3093#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -698,22 +698,22 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-190">
-          <caret line="193" column="111" lean-forward="false" selection-start-line="193" selection-start-column="111" selection-end-line="193" selection-end-column="111" />
-          <folding>
-            <element signature="e#2954#2960#0" expanded="true" />
-            <element signature="e#3068#3074#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="221">
+          <caret line="60" column="47" lean-forward="false" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
+          <folding>
+            <element signature="e#2973#2979#0" expanded="true" />
+            <element signature="e#3087#3093#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
