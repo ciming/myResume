@@ -1,16 +1,1 @@
-.footer-top {
-  background: url("../images/footer-bg.png") center 0 no-repeat;
-  height: 187px;
-  width: 100%;
-}
-.footer-area {
-  background: #4f4f4f;
-  padding: 60px 0;
-  color: #fff;
-  text-align: center;
-}
-.footer-area a {
-  color: inherit;
-}
-
-/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZvb3Rlci5sZXNzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZ0JBQWdCLDZDQUFoQjtFQUNBLGFBQUE7RUFDQSxXQUFBOztBQUdGO0VBQ0UsbUJBQUE7RUFDQSxlQUFBO0VBQ0EsV0FBQTtFQUNBLGtCQUFBOztBQUpGLFlBS0U7RUFDRSxjQUFBIiwic291cmNlc0NvbnRlbnQiOlsiLmZvb3Rlci10b3B7XG4gIGJhY2tncm91bmQ6IHVybChcIi4uL2ltYWdlcy9mb290ZXItYmcucG5nXCIpIGNlbnRlciAwIG5vLXJlcGVhdDtcbiAgaGVpZ2h0OiAxODdweDtcbiAgd2lkdGg6IDEwMCU7XG59XG5cbi5mb290ZXItYXJlYXtcbiAgYmFja2dyb3VuZDogIzRmNGY0ZjtcbiAgcGFkZGluZzogNjBweCAwO1xuICBjb2xvcjogI2ZmZjtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xuICBhe1xuICAgIGNvbG9yOiBpbmhlcml0O1xuICB9XG59Il0sImZpbGUiOiJmb290ZXIuY3NzIn0= */
+.footer-top{background:url(../images/footer-bg.png) center 0 no-repeat;height:187px;width:100%}.footer-area{background:#4f4f4f;padding:60px 0;color:#fff;text-align:center}.footer-area a{color:inherit}
